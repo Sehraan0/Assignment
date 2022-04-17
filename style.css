@@ -1,0 +1,86 @@
+.navigation{
+  text-align: right;
+}
+.h1>{
+    text-align: center;
+}
+     
+.HomeHeading{
+  color: black;
+  position: fixed;
+  top: 12%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.HomeText{
+  color: black;
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+.navigation img{
+  width: 300px;
+
+}
+
+.Modules a {
+  background-color: rgb(133, 133, 182); 
+ color: black;
+ display: inline;
+ position: fixed;
+ top: 10%;
+ left: 10%;
+ 
+ 
+}
+.Modules a {
+  border-radius: 20px;
+ border: 3px solid #666;
+ box-shadow: 3px 3px 3px #000;
+ margin-bottom: 10px;
+ background-color: darkblue;
+ padding: 10px;
+ text-transform: uppercase;
+ color: white;
+}
+.Modules1 a{
+  border-radius: 20px;
+ border: 3px solid #666;
+ box-shadow: 3px 3px 3px #000;
+ margin-bottom: 10px;
+ background-color: darkblue;
+ padding: 10px;
+ text-transform: uppercase;
+ color: white;
+}
+ .Modules1 a{
+  
+ color: white;
+ display: inline;
+ position: fixed;
+ top: 10%;
+ left: 40%;
+}
+
+.Modules2 a{
+  border-radius: 20px;
+ border: 3px solid #666;
+ box-shadow: 3px 3px 3px #000;
+ margin-bottom: 10px;
+ background-color: darkblue;
+ padding: 10px;
+ text-transform: uppercase;
+ color: white;
+}
+.Modules2 a{
+ 
+ color: white;
+ display: inline;
+ position: fixed;
+ top: 10%;
+ left: 70%;
+}
